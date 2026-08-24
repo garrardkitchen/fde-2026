@@ -9,13 +9,13 @@
 # Blog
 
 - [Securing MCP Servers with .NET](https://blog.garrardkitchen.com/ai/securing-mcp-servers-with-dotnet/)
-- [MCP Explorer: Install, Explore, and Test MCP Servers with Confidence](https://blog.garrardkitchen.com/ai/mcp-explorer-x-install-use-test/)
 
-# MCP Explore
+# MCP Explorer
 
 - [Documentation](https://mcp-explorer-x-docs.garrardkitchen.com/)
 - [DockerHub](https://hub.docker.com/r/garrardkitchen/mcp-explorer-x)
 - [Run with single image](https://mcp-explorer-x-docs.garrardkitchen.com/docs/getting-started/quickstart/#option-3--single-container-with-all-variables-docker-run--e)
+- [MCP Explorer: Install, Explore, and Test MCP Servers with Confidence](https://blog.garrardkitchen.com/ai/mcp-explorer-x-install-use-test/)
 
 # Hermes Agent (secure dev) 🔒
 
