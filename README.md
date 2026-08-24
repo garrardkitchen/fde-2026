@@ -14,12 +14,12 @@
 # MCP Explore
 
 - [Documentation](https://mcp-explorer-x-docs.garrardkitchen.com/)
-- [DockerHub](https://hub.docker.com/r/garrardkitchen/mcp-explorer-x]
+- [DockerHub](https://hub.docker.com/r/garrardkitchen/mcp-explorer-x)
 - [Run with single image](https://mcp-explorer-x-docs.garrardkitchen.com/docs/getting-started/quickstart/#option-3--single-container-with-all-variables-docker-run--e)
 
-# 🔒Hermes Agent (secure dev) 
+# Hermes Agent (secure dev) 🔒
 
-_Please ask me for access_
+_Please ask me for access_🤛
 
 - https://github.com/garrardkitchen/hermes-agent-azure
 - [HLD](https://github.com/garrardkitchen/hermes-agent-azure/blob/main/hermes-agent-azure/diagrams/Agentic%20engineering%20workflow%20and%20platform%20diagram.png)
