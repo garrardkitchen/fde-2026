@@ -1,8 +1,9 @@
-# fde-2026
+# Fujitsu Distinguished Engineers Conference (2026)
+
+
+**Aurora showcases how we built the Agentic Service Desk on Azure using secure, scalable cloud-native and agentic engineering practices.**
 
 > [!NOTE]
-> Aurora showcases how we built the Agentic Service Desk on Azure using secure, scalable cloud-native and agentic engineering practices.
-> ----
 > Aurora is the project under which our team built and operated the Azure-hosted components of the Agentic Service Desk, including MCP servers for AI agents and HTTP APIs for workflow integrations. This presentation explores the technologies, architecture and engineering practices used to build the solution securely, covering Microsoft Entra ID app registrations and application roles, PII protection, Dapr, Aspire, Terraform, Azure Landing Zones, multitenancy, secure deployment pipelines, auditing, testing, vulnerability management and operational resilience. It also shows how Azure and software-engineering best practices were applied throughout the infrastructure and application lifecycle, alongside lessons learned from real service, capacity and availability challenges.
 
 # Blog
