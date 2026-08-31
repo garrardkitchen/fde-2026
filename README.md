@@ -9,7 +9,7 @@
 # Blog
 
 - [Securing MCP Servers with .NET](https://blog.garrardkitchen.com/ai/securing-mcp-servers-with-dotnet/)
-- [multimodal PDF search with Azure AI Search, Vision, and OCR](https://blog.garrardkitchen.com/ai/azure-ai-search-multimodal-pdf-vision-ocr/)
+- [Multimodal PDF search with Azure AI Search, Vision, and OCR](https://blog.garrardkitchen.com/ai/azure-ai-search-multimodal-pdf-vision-ocr/)
 
 # MCP Explorer
 
@@ -22,7 +22,7 @@
 
 _Please ask me for access_🤛
 
-- https://github.com/garrardkitchen/hermes-agent-azure
+- [Terraform](https://github.com/garrardkitchen/hermes-agent-azure)
 - [HLD](https://github.com/garrardkitchen/hermes-agent-azure/blob/main/hermes-agent-azure/diagrams/Agentic%20engineering%20workflow%20and%20platform%20diagram.png)
 
 # Tech
