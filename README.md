@@ -9,6 +9,7 @@
 # Blog
 
 - [Securing MCP Servers with .NET](https://blog.garrardkitchen.com/ai/securing-mcp-servers-with-dotnet/)
+- [multimodal PDF search with Azure AI Search, Vision, and OCR](https://blog.garrardkitchen.com/ai/azure-ai-search-multimodal-pdf-vision-ocr/)
 
 # MCP Explorer
 
